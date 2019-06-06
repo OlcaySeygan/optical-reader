@@ -1,0 +1,58 @@
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\bin\Debug\OptikOkuyucu.exe
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\bin\Debug\OptikOkuyucu.pdb
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.formOptik.resources
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.exe
+C:\Documents and Settings\user\Desktop\OptikOkuyucu\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.pdb
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.exe
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.pdb
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\bin\Debug\OptikOkuyucu.exe
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\bin\Debug\OptikOkuyucu.pdb
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.formOptik.resources
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.exe
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.pdb
+F:\OptikOkuyucu2\OptikOkuyucu\bin\Debug\OptikOkuyucu.exe
+F:\OptikOkuyucu2\OptikOkuyucu\bin\Debug\OptikOkuyucu.pdb
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.formOptik.resources
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.Properties.Resources.resources
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\OptikOkuyucu2\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.frmCevap.resources
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.exe
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.pdb
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\bin\Debug\OptikOkuyucu.exe
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\bin\Debug\OptikOkuyucu.pdb
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.frmCevap.resources
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.formOptik.resources
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.Properties.Resources.resources
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Desktop\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.exe
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.pdb
+D:\projelerim\MeTeMOptik\OptikOkuyucu\bin\Debug\OptikOkuyucu.exe
+D:\projelerim\MeTeMOptik\OptikOkuyucu\bin\Debug\OptikOkuyucu.pdb
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.frmCevap.resources
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.formOptik.resources
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.Properties.Resources.resources
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\projelerim\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.exe
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.pdb
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\bin\Debug\OptikOkuyucu.exe
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\bin\Debug\OptikOkuyucu.pdb
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.frmCevap.resources
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.formOptik.resources
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\OptikOkuyucu.Properties.Resources.resources
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\UmutProjeleri\MeTeMOptik\OptikOkuyucu\obj\x86\Debug\GenerateResource.write.1.tlog
